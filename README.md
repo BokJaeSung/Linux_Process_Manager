@@ -28,4 +28,3 @@ This project includes a `Makefile` to streamline the build process with `gcc`. I
 
 
 ## Demo Video
-https://youtu.be/_lQLpL_llVU?si=g0c_-14tuGYZyjW_
