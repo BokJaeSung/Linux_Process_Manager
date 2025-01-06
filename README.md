@@ -1,5 +1,4 @@
 # Linux Process manager    
-2024 Kyungpook National University, School of Computer Science, System Programming, Section 004, Team 11
 ## Project Highlights
 
 - **Real-Time System Monitoring**  
