@@ -2,9 +2,15 @@
 2024 경북대학교 컴퓨터학부 시스템프로그래밍 004분반 Team 11 
 
 ## Project Highlights
-Real-Time System Monitoring,
-User-Friendly TUI (Text-Based User Interface),
-Efficient Resource Management
+
+- **Real-Time System Monitoring**  
+  Provides up-to-date insights into system performance and resource utilization.
+
+- **User-Friendly TUI (Text-Based User Interface)**  
+  Designed for intuitive navigation and interaction, offering a seamless user experience.
+
+- **Efficient Resource Management**  
+  Optimizes resource usage to ensure smooth operation and high performance.
 
 ## 메인 화면
 <img width="801" alt="스크린샷 2024-12-04 오후 7 07 21" src="https://github.com/user-attachments/assets/03395c90-e60e-4544-a58a-6c34ee9aa93b">
