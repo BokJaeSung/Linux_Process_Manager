@@ -1,4 +1,4 @@
-# Linux Process manager    
+# Linux Process manager (TUI)
 ## Project Highlights
 
 - **Real-Time System Monitoring**  
